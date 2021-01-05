@@ -1,2 +1,2 @@
-# xyjiang.github.io
+# xinyu_portfolio
 XinYu Jiang's Portfolio Site
